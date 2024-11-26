@@ -1,0 +1,13 @@
+body {
+  background-color: #24353f;
+}
+
+::placeholder {
+  color: #5b5c5e !important;
+}
+.form-control:focus {
+  box-shadow: none;
+}
+nav {
+  background-color: #24353f;
+}
